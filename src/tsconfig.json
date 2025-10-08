@@ -2,9 +2,9 @@
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
-    "rootDir": "playwright_tests/src",
+    "rootDir": "PW_tests/src",
     "outDir": "./dist",
-    "baseUrl": "playwright_tests/src",
+    "baseUrl": "PW_tests/src",
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
